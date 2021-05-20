@@ -729,6 +729,7 @@ background-color: #03509e;
 }
 .make-appoint .btn{
   height:100px;
+  white-space:normal;
   width:50vw;
   font-size: 1.2rem;
   font-family: inherit;
